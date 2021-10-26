@@ -1,0 +1,45 @@
+/* header style here  */
+header{
+    height: 500px;
+    background-image: url("images/header.jpg");
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
+.header-item{
+    height: 200px;
+}
+nav{
+    height: 80px;
+    background: rgba(255, 255, 255, 0.356);
+}
+.nav-item a{
+    margin-right: 5px;
+    font-size: 20px;
+    text-decoration: none;
+}
+i{
+    font-size: 25px;
+    padding: 5px;
+    /* color: aquamarine; */
+}
+/* second section start here  */
+.bg-black{
+    background: rgba(0, 0, 0, 0.575);
+}
+.second-section{
+    background-image: url('images/bg-2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.right-part{
+    width: 30%;
+    margin: 10px auto;
+}
+.third-section{
+    background-image: url('images/bg-3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.third-section div{
+    height: 400px;
+}
